@@ -1,0 +1,22 @@
+
+
+
+<h1>Not Found</h1>
+<h2>404</h2>
+<pre>NotFoundError: Not Found
+    at C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\app.js:73:8
+    at Layer.handle [as handle_request] (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:275:10)
+    at SessionStrategy.strategy.pass (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\passport\lib\middleware\authenticate.js:346:9)
+    at SessionStrategy.authenticate (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\passport\lib\strategies\session.js:75:10)
+    at attempt (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\express\lib\router\index.js:275:10)
+    at initialize (C:\Users\admin\OneDrive\Desktop\rent\project-nodejs\node_modules\passport\lib\middleware\initialize.js:89:5)</pre>
